@@ -25,7 +25,7 @@ ID# | Story Title | Illustrator
 
 ## Stats
 
-There are currently 99 open-licensed images (each in two different sizes) included in this repo, extracted from the 6 stories that make up the [LCB corpus](https://github.com/global-asp/lcb-source).
+There are currently 112 open-licensed images (each in two different sizes) included in this repo, extracted from the 6 stories that make up the [LCB corpus](https://github.com/global-asp/lcb-source).
 
 ## Links
 
