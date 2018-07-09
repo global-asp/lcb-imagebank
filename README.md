@@ -16,12 +16,16 @@ Since the original images are relatively large, they have been made available in
 
 ID# | Story Title | Illustrator
 --- | ----------- | -----------
-0001 | _A Week With Flying Eagle_ | __Caylie Gnyra__
-0002 | _Little Bear's Day_ | __Caylie Gnyra__
-0003 | _Little Bear is New in Town_ |  __Caylie Gnyra__
-0004 | _The Seasons_ | __Caylie Gnyra__
-0005 | _Grandmother Fox_ | __Luce Aurochs__
-0006 | _Little Fox_ | __Luce Aurochs__
+0001 | _A Week With Flying Eagle_ | **Caylie Gnyra**
+0002 | _Little Bear's Day_ | **Caylie Gnyra**
+0003 | _Little Bear is New in Town_ |  **Caylie Gnyra**
+0004 | _The Seasons_ | **Caylie Gnyra**
+0005 | _Grandmother Fox_ | **Luce Aurochs**
+0006 | _Little Fox_ | **Luce Aurochs**
+0016 | _This is Silly Beaver_ | **Cynthia Dovell**
+0017 | _What Are You Doing?_ | **Matty Flores**
+0018 | _What is inside this?_ | **Luce Aurochs**
+0019 | _Who is this, Silly Beaver?_ | **Cynthia Dovell**
 
 ## Stats
 
